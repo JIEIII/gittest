@@ -1,3 +1,9 @@
 body{
 background-color: rgba(6, 179, 6, 0.747);
 }
+p {
+    color: #770a0ae1;
+}
+h2 {
+    font-size: 50px;
+}
